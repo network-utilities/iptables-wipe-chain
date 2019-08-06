@@ -167,7 +167,7 @@ ___
   "&#x1F4DC; The arguments that `iptables_wipe_chain` understands"
 
 
-Inserts iptables rules prior to any logging jumps, or append if no logging rules where defined.
+Wipes iptables rules that refer to chain name
 
 
 | Param | Type |  | Description |
